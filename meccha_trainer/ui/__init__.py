@@ -1,0 +1,1 @@
+"""Qt UI: overlay window and settings dialog."""
