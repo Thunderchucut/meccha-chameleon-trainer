@@ -1,0 +1,1 @@
+"""State models shared across plugins."""
