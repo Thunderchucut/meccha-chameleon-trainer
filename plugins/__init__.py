@@ -1,0 +1,1 @@
+"""MECCHA CHAMELEON Trainer plugin packages."""
